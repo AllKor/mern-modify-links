@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "justMern",
+    "mongoURI": "mongodb+srv://Alexander:4yCrObH65xVcieTL@cluster0.jrfe1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "baseURL": "http://localhost:5000"
+}
